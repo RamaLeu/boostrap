@@ -209,3 +209,20 @@ body, html{
   height: 100%;
   background-size: cover;
 }
+.footer{
+  background-image: url("footer.png");
+  background-color: #cccccc;
+  width: auto;
+  height: 100%;
+  background-size: cover;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.f1{
+  margin-top: 5%;
+  font-size: 120%;
+}
+.finputs{
+  height: 50%;
+  width: 110%;
+}
