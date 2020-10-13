@@ -202,3 +202,10 @@ body, html{
   margin-left: 0px;
   margin-right: 0px;
 }
+.section4{
+  background-image: url("section4.png");
+  background-color: #cccccc;
+  width: auto;
+  height: 100%;
+  background-size: cover;
+}
