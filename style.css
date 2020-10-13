@@ -104,3 +104,49 @@ body, html{
   font-size: 130%;
   margin-right: 5%;
 }
+.clients{
+  background-image: url("clients.png");
+  background-color: #cccccc;
+  width: auto;
+  height: 100%;
+  background-size: cover;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rects{
+  margin-top: 10%;
+}
+.s5t{
+  color: white;
+  margin-top: 2%;
+}
+.s5tt{
+  color: pink;
+
+}
+.s5p{
+  color: gray;
+}
+.s5img{
+  margin-top: 10%;
+  height: 100%;
+  width: 100%;
+
+}
+.test{
+  background-color: red;
+}
+.btt{
+  margin-top : 1%;
+  font-size: 250%;
+  font-weight: bold;
+}
+.bt{
+  font-size: 120%;
+  margin-right: 40%;
+  margin-top : 10%;
+}
+.btx{
+  text-align: center;
+  font-size: 120%;
+}
