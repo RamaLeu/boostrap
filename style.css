@@ -193,3 +193,12 @@ body, html{
 .termss{
   text-decoration: underline;
 }
+.browser{
+  background-image: url("browser.png");
+  background-color: #cccccc;
+  width: auto;
+  height: 700px;
+  background-size: cover;
+  margin-left: 0px;
+  margin-right: 0px;
+}
