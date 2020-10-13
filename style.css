@@ -60,3 +60,47 @@ body, html{
 .dot{
   color: pink;
 }
+.section3{
+  background-image: url("section3.png");
+  background-color: #cccccc;
+  width: auto;
+  height: 140%;
+  background-size: cover;
+}
+.imgs{
+  object-fit: cover;
+}
+.titln3{
+  color: pink;
+  font-size: 100%;
+  margin-top: 20%
+}
+.t3h{
+  font-size: 200%;
+}
+.sec32{
+  margin-left: 10%;
+}
+.ftr{
+  font-weight: bold;
+  font-size: 100%;
+}
+.par{
+  font-size: 120%;
+}
+
+.s4d{
+  font-size: 120%;
+  color: pink;
+  margin-right: 40%;
+  margin-top : 15%;
+}
+.s4t{
+  margin-top : 1%;
+  font-size: 200%;
+  font-weight: bold;
+}
+.s4tx{
+  font-size: 130%;
+  margin-right: 5%;
+}
