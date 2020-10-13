@@ -150,3 +150,46 @@ body, html{
   text-align: center;
   font-size: 120%;
 }
+.trynoww{
+  background-image: url("trynow.png");
+  background-color: #cccccc;
+  width: auto;
+  height: 100%;
+  background-size: cover;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.tnf{
+  font-size: 120%;
+  margin-top : 5%;
+}
+.tnt{
+  margin-top : 1%;
+  font-size: 250%;
+  font-weight: bold;
+  color: white;
+}
+.inputs{
+  margin-top: 6%;
+  margin-left: 3%;
+  background: transparent;
+  border: 2px solid white;
+  height: 150%;
+  width: 110%;
+}
+.submitb{
+  margin-top: 6%;
+  margin-left: 3%;
+  background: pink;
+  border: transparent;
+  height: 150%;
+  width: 110%;
+
+}
+.terms{
+  margin-top : 3%;
+  font-size: 100%;
+}
+.termss{
+  text-decoration: underline;
+}
